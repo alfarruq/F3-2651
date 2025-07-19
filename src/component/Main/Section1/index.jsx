@@ -1,8 +1,5 @@
-
-
-
-import hero from "../../assets/img/hero.png"
 import "./sec1.css"
+import hero from "../../../assets/img/hero.png"
 
 
 
