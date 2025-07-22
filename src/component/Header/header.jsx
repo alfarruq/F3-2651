@@ -19,6 +19,7 @@ function Header() {
                             <li><a href="#">База знаний</a></li>
                             <li><a href="#">О нас</a></li>
                             <button>Вход</button>
+                            <button className='icon'>=</button>
                         </ul>
                     </nav>
                 </div>
